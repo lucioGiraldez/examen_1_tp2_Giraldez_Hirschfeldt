@@ -1,0 +1,7 @@
+// se que no iba pero decidi hacer un status simplemente porque me ordena para seguir con la logica de capas, seguir lo que vinimos haciendo en modelos anteriores
+
+###
+GET http://127.0.0.1:3003/api/version1/status
+
+###
+GET http://127.0.0.1:3003/api/version2/status

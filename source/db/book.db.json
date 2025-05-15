@@ -1,0 +1,18 @@
+[
+  {
+    "id": "d935119a-b932-4134-bdce-d00ec649b337",
+    "title": "Rayuela",
+    "author": "Julio Cortázar",
+    "isbn": "978-950-07-0000-0",
+    "publishedDate": "1963-06-28",
+    "availableCopies": 5
+  },
+    {
+    "id": "b72f94f2-bc09-49e4-85a6-83fd7eaa29c0",
+    "title": "PRUEBA PARA DELETE y/o UPDATE",
+    "author": "Lucio Giraldez",
+    "isbn": "978-3-16-148410-0",
+    "publishedDate": "1975-06-05",
+    "availableCopies": 6
+  }
+]
